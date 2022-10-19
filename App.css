@@ -1,0 +1,23 @@
+td,input{
+  text-align: center !important;
+}
+img{
+  text-align: center;
+}
+tr {
+  line-height: 25px;
+  min-height: 25px;
+  height: 25px;
+}
+th{
+  width:26% !important;
+}
+td{
+  width: 21% !important;
+}
+.PaySlipDetails{
+  width:10% !important;
+}
+.payslip{
+  width:10% !important;
+}
